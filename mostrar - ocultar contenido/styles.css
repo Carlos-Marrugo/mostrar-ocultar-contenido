@@ -1,0 +1,13 @@
+  #body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  #content {
+    display: none;
+  }
+  #about-me {
+    background-color: rgb(37, 107, 130);
+  }
+  #my-work {
+    background-color: lightgreen;
+  }
